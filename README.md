@@ -2,7 +2,7 @@
 Unity 2D projekts, kas demonstrē UI elementu lietojumu, kas ļauj apģērbt izvēlētu tēlu.
 
 ## Projekta pazīmes:
-   - Lietotāji var izvēlēties un mainīt tēlu apģērbu, kas izveidots izmantojot dažādus UI elementus.
+   - Lietotāji var izvēlēties un mainīt tēlu un apģērbu, kas izveidots izmantojot dažādus UI elementus.
    - Projekts ietver dažādu UI elementu, piemēram, InputField, Text, Button, Image, Toggle, Panel, Toggle Group, DropDown, Slidere un ScrollView, lietojumu.
 
 ### Veicamo darbu saraksts
