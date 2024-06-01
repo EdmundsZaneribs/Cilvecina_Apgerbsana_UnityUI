@@ -1,6 +1,10 @@
 # Cilvēciņa_Apģerbšana_UnityUI
 Unity 2D projekts, kas demonstrē UI elementu lietojumu, kas ļauj apģērbt izvēlētu tēlu.
 
+## Projekta pazīmes:
+   - Lietotāji var izvēlēties un mainīt tēlu apģērbu, kas izveidots izmantojot dažādus UI elementus.
+   - Projekts ietver dažādu UI elementu, piemēram, InputField, Text, Button, Image, Toggle, Panel, Toggle Group, DropDown, Slidere un ScrollView, lietojumu.
+
 ### Veicamo darbu saraksts
 - [x] Projekta uzsākšana un izvietošana GitHub
 - [x] Projektu mapju un failu izvietošana
